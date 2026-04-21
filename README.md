@@ -1,7 +1,7 @@
 # 👋 Hello, I'm 김다경!
 
 <p align="center">
-  <img src="https://via.placeholder.com/300x300.png?text=AI+Student" width="250"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="200"/>
 </p>
 
 ```python
