@@ -1,5 +1,9 @@
 # 👋 Hello, I'm 김다경!
 
+<p align="center">
+  <img src="https://via.placeholder.com/300x300.png?text=AI+Student" width="250"/>
+</p>
+
 ```python
 class KimDaKyung:
     def __init__(self):
